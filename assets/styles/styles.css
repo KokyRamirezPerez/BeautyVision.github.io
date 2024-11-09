@@ -5,6 +5,10 @@ header {
     background-color: #2e2b29; 
     padding: 10px 50px;
 }
+main{
+    position: relative;
+    z-index: 1;
+}
 
 .logo-container {
     display: flex;
